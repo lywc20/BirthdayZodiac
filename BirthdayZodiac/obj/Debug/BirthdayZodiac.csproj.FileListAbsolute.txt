@@ -1,0 +1,5 @@
+C:\Users\Vincent\RiderProjects\BirthdayZodiac\BirthdayZodiac\bin\Debug\BirthdayZodiac.dll
+C:\Users\Vincent\RiderProjects\BirthdayZodiac\BirthdayZodiac\bin\Debug\BirthdayZodiac.pdb
+C:\Users\Vincent\RiderProjects\BirthdayZodiac\BirthdayZodiac\obj\Debug\BirthdayZodiac.csprojResolveAssemblyReference.cache
+C:\Users\Vincent\RiderProjects\BirthdayZodiac\BirthdayZodiac\obj\Debug\BirthdayZodiac.dll
+C:\Users\Vincent\RiderProjects\BirthdayZodiac\BirthdayZodiac\obj\Debug\BirthdayZodiac.pdb
